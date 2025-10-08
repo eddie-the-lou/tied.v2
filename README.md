@@ -67,7 +67,7 @@ npm run build
 
 The app is configured to deploy automatically via GitHub Actions when you push to the main branch.
 
-**Live Demo:** `https://eddielou.github.io/tied.v2/`
+**Live Demo:** `https://eddie-the-lou.github.io/tied.v2/`
 
 **Manual deployment:**
 ```bash
@@ -76,7 +76,7 @@ npm run deploy
 
 **First-time GitHub Pages setup:**
 1. Push your code to main branch (if not already done)
-2. Go to: https://github.com/eddielou/tied.v2/settings/pages
+2. Go to: https://github.com/eddie-the-lou/tied.v2/settings/pages
 3. Under "Build and deployment" → "Source" dropdown
 4. **CLICK the dropdown and SELECT "GitHub Actions"** (don't just look at it!)
 5. Wait 30 seconds, then visit your site
